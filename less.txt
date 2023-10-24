@@ -1,0 +1,6 @@
+git init - инициализируем новый репозиторий
+git add --all - добавляем все файлы из выбранного каталога
+git commit -m "first commit" - оставляем коммит измемения
+git branch -M main - создаём ветвление
+git remote add origin https://github.com/hedzy/less24.git - добавление удаленного репозитория
+git push -u origin main - отправка закоммиченный факлов в удаленной ветке
